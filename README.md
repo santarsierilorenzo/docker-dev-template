@@ -1,5 +1,13 @@
 # docker-dev-template
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Dev%20Containers-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Dev Containers">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/SSH%20Mount-333333?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="SSH Mount">
+</p>
+
 This repository provides a **standardized template** for quickly spinning up lightweight, ready-to-use development containers.
 The goal is to offer a plug-and-play setup that works **consistently across all projects**.
 
