@@ -101,12 +101,8 @@ When you select *Reopen in Container*, VS Code:
 
 * Reads the `.devcontainer/<config>.json` file you selected.
 * Builds a Docker image using Python and the dependencies listed in `requirements.txt`.
-* Creates a container and mounts your local folder into `/workspace`.
-* Automatically sets environment variables:
-
-  * `WORKDIR=/workspace`
-  * `PYTHONPATH=/workspace`
-  * `USER=myuser`
+* Creates a container and mounts your local folder.
+* Automatically sets environment variables.
 
 This gives you an isolated, reproducible, and consistent environment across systems.
 
